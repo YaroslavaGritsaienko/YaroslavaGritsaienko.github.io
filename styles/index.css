@@ -1,0 +1,18 @@
+.main {
+    display: flex;
+    align-items: center;
+    justify-content: center;    
+    height: 100vh;
+}
+#footer {
+    padding: 2vh;
+    background-color: black;
+}
+#footer p {
+    color: white;
+    text-align: center;
+}
+#like {
+    border: 0;
+    background: transparent;
+}
